@@ -62,5 +62,3 @@ def part_two():
       else:
         score += points[options["CZ"]]
   print(score)
-
-part_two()

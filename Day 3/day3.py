@@ -39,5 +39,3 @@ def second_part():
           break
   
   print(count)
-
-second_part()
