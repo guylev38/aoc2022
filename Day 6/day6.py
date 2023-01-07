@@ -55,7 +55,6 @@ def part_two():
 
   print(count) 
 
-part_two()
 
 
 
